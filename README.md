@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **contact.horror69@gmail.com**
 
-- 📝 I regularly write articles on **[https://drift.rip/horror69](https://drift.rip/horror69)**
+- 📝 My link in my is here **[https://drift.rip/horror69](https://drift.rip/horror69)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
