@@ -1,5 +1,7 @@
 # Hi 👋, I'm Horror 69
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=horror69dev)
+
 ### Jr Discord Bot Develepor, Proud Home Lab owner
 
 
