@@ -1,8 +1,8 @@
 # Hi 👋, I'm Horror 69
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=horror69dev)
+![GitHub Mini Badge](https://ghstats.dev/api/mini?username=horror69dev&style=plastic) ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=horror69dev&metric=contributions&label=contributions&style=plastic) ![GitHub Mini Badge](https://ghstats.dev/api/mini?username=horror69dev&metric=followers&style=plastic)
 
-### Jr Discord Bot Develepor, Proud Home Lab owner
+### Discord Bot Develepor, Proud Home Lab owner
 
 
 - 🌱 I'm currently learning **Python**
@@ -21,4 +21,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=discord,bots,docker,py,raspberrypi,npm,vscode)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=discord,docker,html,css,js,ts,nextjs,py,debian,raspberrypi,npm,vscode,cloudflare,blender&perline=6&theme=dark)](https://skillicons.dev)
