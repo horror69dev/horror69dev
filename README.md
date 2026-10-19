@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contact.horror69@gmail.com**
 
-- 📝 My Portfolio **[https://drift.rip/horror69](https://horror69.is-a.dev)**
+- 📝 My Portfolio **https://horror69.is-a.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
