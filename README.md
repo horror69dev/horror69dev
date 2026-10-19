@@ -5,13 +5,13 @@
 ### Discord Bot Develepor, Proud Home Lab owner
 
 
-- 🌱 I'm currently learning **Python**
+- 🌱 I'm currently learning **Web Development**
 
 - 💬 Ask me about **Docker, Portainer, Home Lab things**
 
 - 📫 How to reach me **contact.horror69@gmail.com**
 
-- 📝 All my links are here **[https://drift.rip/horror69](https://drift.rip/horror69)**
+- 📝 My Portfolio **[https://drift.rip/horror69](https://horror69.is-a.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
